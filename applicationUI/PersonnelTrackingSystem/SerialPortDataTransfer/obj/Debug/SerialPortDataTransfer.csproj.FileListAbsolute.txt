@@ -1,0 +1,27 @@
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.exe.config
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.exe
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.pdb
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.AssemblyReference.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.Form1.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.Properties.Resources.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.GenerateResource.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.exe
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\SerialPortDataTransfer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\DataAccesLayer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\Entities.dll
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\DataAccesLayer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\DataAccesLayer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\Entities.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.AssemblyReference.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.Form1.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.Properties.Resources.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.GenerateResource.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.csproj.CopyComplete
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\SerialPortDataTransfer\obj\Debug\SerialPortDataTransfer.pdb

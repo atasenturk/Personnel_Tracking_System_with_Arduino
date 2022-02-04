@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Entities
+{
+    public class GirisYerleri
+    {
+        public int giris_id { get; set; }
+        public string giris_isim { get; set; }
+    }
+}

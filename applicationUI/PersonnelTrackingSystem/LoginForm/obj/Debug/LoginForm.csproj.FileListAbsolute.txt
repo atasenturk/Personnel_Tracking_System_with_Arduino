@@ -1,0 +1,70 @@
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.Register.resources
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\DashboardUI.exe
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\DashboardUI.pdb
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\bin\Debug\DashboardUI.exe.config
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\ata-s\source\repos\DashboardUI\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\SleepTrackerUI.exe
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\SleepTrackerUI.pdb
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\bin\Debug\SleepTrackerUI.exe.config
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.Register.resources
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\ata-s\source\repos\SleepTrackerUI\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.dll
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.dll
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\DataAccesLayer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\bin\Debug\PersonnelTrackingSystem.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.AssemblyReference.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.Login.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.csproj.CopyComplete
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\LoginForm\obj\Debug\LoginForm.pdb

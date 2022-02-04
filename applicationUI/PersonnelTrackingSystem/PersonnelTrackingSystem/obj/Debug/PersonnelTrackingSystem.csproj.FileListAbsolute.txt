@@ -1,0 +1,54 @@
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe.config
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Form1.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Properties.Resources.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.GenerateResource.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.pdb
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CopyComplete
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonnelUI.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonDesign.resources
+C:\Users\ata-s\source\repos\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Form1.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonDesign.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonnelUI.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Properties.Resources.resources
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.GenerateResource.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CopyComplete
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\PersonnelTrackingSystem.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\DataAccesLayer.exe.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.pdb
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\bin\Debug\Entities.dll.config
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.AssemblyReference.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Form1.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonDesign.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.PersonnelUI.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.Properties.Resources.resources
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.GenerateResource.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CoreCompileInputs.cache
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.csproj.CopyComplete
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.exe
+C:\Users\ata-s\OneDrive\Masaüstü\VERİTABANI PROJE SON\Veritabanı Personel Takip Sistemi\PersonnelTrackingSystem\PersonnelTrackingSystem\obj\Debug\PersonnelTrackingSystem.pdb
